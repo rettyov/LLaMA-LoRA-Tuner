@@ -1,0 +1,6 @@
+{
+  "description": "Sample my.",
+  "variables": ["instruction"],
+  "default": "prompt",
+  "prompt": "{instruction}"
+}
